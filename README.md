@@ -1,2 +1,2 @@
 # Analyse-PVs
-Tool for extracting manageable data from CSE PVs
+Tool for analyzing and extracting manageable data from CSE PVs
